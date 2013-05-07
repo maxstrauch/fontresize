@@ -20,6 +20,10 @@ shortcuts available:
 * CMD + 0 (Mac), CTRL + 0 (Windows) to increase the font size
 * CMT + - (Mac), CTRL + 0 (Windows) to decrease the font size
 
+This plugin was tested on:
+* Eclipse Juno (4.2.2) / Mac OS X 10.8.2
+* Eclipse Juno (4.2.2) / Windows 7 Professional x32
+
 # License
 
 See LICENSE.txt in the repo.
