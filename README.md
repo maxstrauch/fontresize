@@ -8,7 +8,7 @@ Please notice that the source code was adapted from the project http://code.goog
 
 # How to get and install it
 
-* Go the "plugins" folder in this repo and get the latest "FontResize_1.24.0.jar"
+* Go the "plugins" folder in this repo and get the latest "FontResize_1.24.0.jar" or click here: https://github.com/maxstrauch/fontresize/raw/master/plugins/FontResize_1.42.0.jar
 * Copy this file into the "plugins" folder located in the root directory of your Eclipse installation
 * (Re-)Start Eclipse; two nice looking icons should appear
 
