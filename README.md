@@ -29,3 +29,11 @@ It should also work on older Eclipse versions.
 # License
 
 See LICENSE.txt in the repo.
+
+# Some errors - nothing works
+
+If you get in trouble and nothing works try this:
+* Close Eclipse and open your favorit cammand interpreter
+* Bring the command prompt into the root directory of the Eclipse installation
+* Type "eclipse.exe -clean" on Windows and "./eclipse -clean" on Mac or Linux
+* After start close Eclipse and run it again. Now everything should work fine. If not try to figure out how to solve the problem and let me know your solution
