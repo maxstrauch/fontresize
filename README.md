@@ -15,7 +15,7 @@ Please notice that the source code was adapted from the project http://code.goog
 # How to use it
 
 Use the two icons to decrease or increase the font size of the editor section. There are also this
-shortcuts available:
+shortcuts available (don't type the plus character):
 
 * CMD + 0 (Mac), CTRL + 0 (Windows) to increase the font size
 * CMT + - (Mac), CTRL + 0 (Windows) to decrease the font size
